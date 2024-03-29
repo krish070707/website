@@ -1,0 +1,10 @@
+.responsive {
+  width: 100%;
+max-width: 450px;
+  height: auto;
+}
+body {
+background-position: up center;
+font-size: larger;
+text-align: center;
+}
