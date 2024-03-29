@@ -1,3 +1,7 @@
+.responsive {
+  width: 100%;
+  height: auto;
+}
 body {
 background-position: up center;
 font-size: larger;
